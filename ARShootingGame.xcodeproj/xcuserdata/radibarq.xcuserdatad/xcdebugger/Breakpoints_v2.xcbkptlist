@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARniegeddon/GameScene.swift"
+            timestampString = "555935218.672021"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARniegeddon.GameScene.init(size: __C.CGSize) -&gt; ARniegeddon.GameScene"
+                  moduleName = "ARniegeddon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/radibarq/Downloads/starter/ARniegeddon/ARniegeddon/GameScene.swift"
+                  timestampString = "555935163.952311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARniegeddon.GameScene.init() -&gt; ARniegeddon.GameScene"
+                  moduleName = "ARniegeddon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/radibarq/Downloads/starter/ARniegeddon/ARniegeddon/GameScene.swift"
+                  timestampString = "555935163.954179"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARniegeddon.GameScene.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;ARniegeddon.GameScene&gt;"
+                  moduleName = "ARniegeddon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/radibarq/Downloads/starter/ARniegeddon/ARniegeddon/GameScene.swift"
+                  timestampString = "555935163.955951"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
