@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "a4d71bf1a70dc9e1191ce802838e13c9"
+build_time: [1534249153, 571716000]
+inputs:
+  "/Users/radibarq/Downloads/starter/ARniegeddon/ARShootingGame/GameScene.swift": [1534249143, 0]
+  "/Users/radibarq/Downloads/starter/ARniegeddon/ARShootingGame/GameViewController.swift": [1534249143, 0]
+  "/Users/radibarq/Downloads/starter/ARniegeddon/ARShootingGame/AppDelegate.swift": [1534242709, 0]
+  "/Users/radibarq/Downloads/starter/ARniegeddon/ARShootingGame/Types.swift": [1534249153, 0]

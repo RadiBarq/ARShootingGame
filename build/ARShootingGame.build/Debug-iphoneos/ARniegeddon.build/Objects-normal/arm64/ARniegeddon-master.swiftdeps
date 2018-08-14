@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "321a4878f05e5172cfc11aa0fe268206"
+build_time: [1534242709, 508983000]
+inputs:
+  "/Users/radibarq/Downloads/starter/ARniegeddon/ARniegeddon/GameScene.swift": [1534242709, 0]
+  "/Users/radibarq/Downloads/starter/ARniegeddon/ARniegeddon/GameViewController.swift": [1534242709, 0]
+  "/Users/radibarq/Downloads/starter/ARniegeddon/ARniegeddon/AppDelegate.swift": [1534242709, 0]
+  "/Users/radibarq/Downloads/starter/ARniegeddon/ARniegeddon/Types.swift": [1534242709, 0]

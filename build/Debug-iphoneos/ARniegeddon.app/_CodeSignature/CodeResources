@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Actions.sks</key>
-		<data>
-		P8f3NeLnSG8XNXQuoAlKRnQUBjk=
-		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
 		lnQ7EDq+n1nnvynK+52JcpxJuso=
@@ -38,7 +34,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/BV1-FR-VrT-view-3se-qz-xqx.nib</key>
 		<data>
-		OOSGNYoB3+l2vy0UMHXpvR/e1ZM=
+		WcCKr4qcbRGBQ7GjRj1O7tdOzg8=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -46,7 +42,15 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BV1-FR-VrT.nib</key>
 		<data>
-		omJLYpOCDAvUoGagp0VsmbxZfGQ=
+		x1tZQn4w1YJ8gumj6ikoJKEd1Y4=
+		</data>
+		<key>Frameworks/libswiftARKit.dylib</key>
+		<data>
+		Wf29IkURQVH2fEk7jtdZpNJ78ME=
+		</data>
+		<key>Frameworks/libswiftAVFoundation.dylib</key>
+		<data>
+		x+9C089Im0s7h+dehedzdnWaLIA=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -116,6 +120,10 @@
 		<data>
 		eOsi+BwzbNUbFuxLwetd1gfum4U=
 		</data>
+		<key>Frameworks/libswiftSwiftOnoneSupport.dylib</key>
+		<data>
+		jlo9ZHX0oTYpaFUYWWyFvfiuhvo=
+		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
 		ZM/GhnUfPa73uD0Ro5GfecXJ1TE=
@@ -128,13 +136,9 @@
 		<data>
 		KdNjn4RHPgwdFIC3jgkH00CrFPk=
 		</data>
-		<key>GameScene.sks</key>
-		<data>
-		JdBLXFEqe9oGEEU8Mg83YNGyJJQ=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		zpSUOXkt/hBO/bsUW/oHetb5otI=
+		h9/Nzfzry7kQt5HlLUtEHRRzdAQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -175,17 +179,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Actions.sks</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			P8f3NeLnSG8XNXQuoAlKRnQUBjk=
-			</data>
-			<key>hash2</key>
-			<data>
-			cAHVn0SnTs9tZ2doaXI8QWYq8kHWdfkF7ttWL6GqVVI=
-			</data>
-		</dict>
 		<key>AppIcon60x60@2x.png</key>
 		<dict>
 			<key>hash</key>
@@ -267,11 +260,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OOSGNYoB3+l2vy0UMHXpvR/e1ZM=
+			WcCKr4qcbRGBQ7GjRj1O7tdOzg8=
 			</data>
 			<key>hash2</key>
 			<data>
-			L/yOlMV1lOqq22so/irLSdgzxYkgKsDkMsY48eIZPTM=
+			MXBVGIlbLaXpGkaTqRCj/FSF/Gv52kEmev1k2o4h7+M=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -289,11 +282,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			omJLYpOCDAvUoGagp0VsmbxZfGQ=
+			x1tZQn4w1YJ8gumj6ikoJKEd1Y4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pd/Ih383AKrAo7Dy2DYYc+L5UJWl+8L8xkoYoy//3Y0=
+			/aH/1QvJRE4owvJiAYYZOUwSmvWfRzCSyuXp0ykZXrU=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftARKit.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wf29IkURQVH2fEk7jtdZpNJ78ME=
+			</data>
+			<key>hash2</key>
+			<data>
+			uvPHyCFYUx7Ra2RA62qa71C3lfPdB1QE1I5RDqYCkK8=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftAVFoundation.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x+9C089Im0s7h+dehedzdnWaLIA=
+			</data>
+			<key>hash2</key>
+			<data>
+			/0ikbyZwajtV2bSqbtOe8uoCtmUnpWZHyF3cTBY45Gg=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
@@ -483,6 +498,17 @@
 			Ja1D/hTdYI8yq/wWZ0KtYXu/aPu+RfjGQXxR8EbtPXw=
 			</data>
 		</dict>
+		<key>Frameworks/libswiftSwiftOnoneSupport.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jlo9ZHX0oTYpaFUYWWyFvfiuhvo=
+			</data>
+			<key>hash2</key>
+			<data>
+			63ORH8ISpFQCusJc0fpB44zAYaKnBjvL+aCw1u09DLI=
+			</data>
+		</dict>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<dict>
 			<key>hash</key>
@@ -514,17 +540,6 @@
 			<key>hash2</key>
 			<data>
 			JqP2X0IOT6yGSDKLY6IUZUPHHMCK7H+EWkEdzVTElZM=
-			</data>
-		</dict>
-		<key>GameScene.sks</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JdBLXFEqe9oGEEU8Mg83YNGyJJQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			hbERI6sgM5He+GGeEDIXMfUT+KvlHjmkYz92MmMWvN8=
 			</data>
 		</dict>
 		<key>catchBugspray.wav</key>

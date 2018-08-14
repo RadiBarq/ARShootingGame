@@ -21,10 +21,11 @@
 		8297D50B1F34836D00C42D1F /* sprayFirebug.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8297D5041F34836C00C42D1F /* sprayFirebug.wav */; };
 		8297D50C1F34836D00C42D1F /* win.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8297D5051F34836C00C42D1F /* win.wav */; };
 		8297D5121F3487F700C42D1F /* Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297D5111F3487F700C42D1F /* Types.swift */; };
+		CD73F5922122ED3B0065869A /* Level1.sks in Resources */ = {isa = PBXBuildFile; fileRef = CD73F5912122ED3B0065869A /* Level1.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		828897691F33F3910035005F /* ARniegeddon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARniegeddon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		828897691F33F3910035005F /* ARShootingGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARShootingGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8288976C1F33F3920035005F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		828897721F33F3920035005F /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		828897741F33F3930035005F /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		8297D5041F34836C00C42D1F /* sprayFirebug.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sprayFirebug.wav; sourceTree = "<group>"; };
 		8297D5051F34836C00C42D1F /* win.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = win.wav; sourceTree = "<group>"; };
 		8297D5111F3487F700C42D1F /* Types.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Types.swift; sourceTree = "<group>"; };
+		CD73F5912122ED3B0065869A /* Level1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Level1.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +58,7 @@
 		828897601F33F3910035005F = {
 			isa = PBXGroup;
 			children = (
-				8288976B1F33F3910035005F /* ARniegeddon */,
+				8288976B1F33F3910035005F /* ARShootingGame */,
 				8288976A1F33F3910035005F /* Products */,
 			);
 			indentWidth = 2;
@@ -66,12 +68,12 @@
 		8288976A1F33F3910035005F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				828897691F33F3910035005F /* ARniegeddon.app */,
+				828897691F33F3910035005F /* ARShootingGame.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8288976B1F33F3910035005F /* ARniegeddon */ = {
+		8288976B1F33F3910035005F /* ARShootingGame */ = {
 			isa = PBXGroup;
 			children = (
 				8288976C1F33F3920035005F /* AppDelegate.swift */,
@@ -83,8 +85,9 @@
 				8297D4FE1F34836C00C42D1F /* Sounds */,
 				8288977B1F33F3940035005F /* LaunchScreen.storyboard */,
 				8288977E1F33F3940035005F /* Info.plist */,
+				CD73F5912122ED3B0065869A /* Level1.sks */,
 			);
-			path = ARniegeddon;
+			path = ARShootingGame;
 			sourceTree = "<group>";
 		};
 		8297D4FE1F34836C00C42D1F /* Sounds */ = {
@@ -104,9 +107,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		828897681F33F3910035005F /* ARniegeddon */ = {
+		828897681F33F3910035005F /* ARShootingGame */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 828897811F33F3940035005F /* Build configuration list for PBXNativeTarget "ARniegeddon" */;
+			buildConfigurationList = 828897811F33F3940035005F /* Build configuration list for PBXNativeTarget "ARShootingGame" */;
 			buildPhases = (
 				828897651F33F3910035005F /* Sources */,
 				828897661F33F3910035005F /* Frameworks */,
@@ -116,9 +119,9 @@
 			);
 			dependencies = (
 			);
-			name = ARniegeddon;
+			name = ARShootingGame;
 			productName = ARniegeddon;
-			productReference = 828897691F33F3910035005F /* ARniegeddon.app */;
+			productReference = 828897691F33F3910035005F /* ARShootingGame.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -128,7 +131,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
-				LastUpgradeCheck = 0900;
+				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = "Ray Wenderlich";
 				TargetAttributes = {
 					828897681F33F3910035005F = {
@@ -136,7 +139,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 828897641F33F3910035005F /* Build configuration list for PBXProject "ARniegeddon" */;
+			buildConfigurationList = 828897641F33F3910035005F /* Build configuration list for PBXProject "ARShootingGame" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -149,7 +152,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				828897681F33F3910035005F /* ARniegeddon */,
+				828897681F33F3910035005F /* ARShootingGame */,
 			);
 		};
 /* End PBXProject section */
@@ -168,6 +171,7 @@
 				8297D50A1F34836D00C42D1F /* sprayBug.mp3 in Resources */,
 				8288977D1F33F3940035005F /* LaunchScreen.storyboard in Resources */,
 				8297D50C1F34836D00C42D1F /* win.wav in Resources */,
+				CD73F5922122ED3B0065869A /* Level1.sks in Resources */,
 				8297D50B1F34836D00C42D1F /* sprayFirebug.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -222,6 +226,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -229,6 +234,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -279,6 +285,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -286,6 +293,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -320,7 +328,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = PSFCZBNLMD;
-				INFOPLIST_FILE = ARniegeddon/Info.plist;
+				INFOPLIST_FILE = ARShootingGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.radibarq;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -334,7 +342,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = PSFCZBNLMD;
-				INFOPLIST_FILE = ARniegeddon/Info.plist;
+				INFOPLIST_FILE = ARShootingGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.radibarq;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -346,7 +354,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		828897641F33F3910035005F /* Build configuration list for PBXProject "ARniegeddon" */ = {
+		828897641F33F3910035005F /* Build configuration list for PBXProject "ARShootingGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8288977F1F33F3940035005F /* Debug */,
@@ -355,7 +363,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		828897811F33F3940035005F /* Build configuration list for PBXNativeTarget "ARniegeddon" */ = {
+		828897811F33F3940035005F /* Build configuration list for PBXNativeTarget "ARShootingGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				828897821F33F3940035005F /* Debug */,
